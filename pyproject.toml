@@ -1,9 +1,9 @@
 # put this code in
 [project]
-name = "your-package-name"
+name = "agent-toolkit"
 version = "0.1.0"
 description = "A short description of your project"
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "anushkarajoriya14", email = "anushkarajoriya14@gmail.com" }]
 dependencies = ["openai>=1.0.0"]
 
 [build-system]
