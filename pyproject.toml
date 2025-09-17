@@ -1,0 +1,11 @@
+# put this code in
+[project]
+name = "your-package-name"
+version = "0.1.0"
+description = "A short description of your project"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+dependencies = ["openai>=1.0.0"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
